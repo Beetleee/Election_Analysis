@@ -8,7 +8,7 @@ Deliverable 1
 ### Election-Audit Results
  - **Total votes cast** The total votes cast in this election is: **369,711**
 
-Specific code and output:
+
 ![](https://github.com/Beetleee/Election_Analysis/blob/main/resources/Total_votes.png)
  - **County-specific results**
 	* **Jefferson** county has **10.5%** total percent of the vote, with **(38,855)** total votes
@@ -16,11 +16,11 @@ Specific code and output:
 	* **Denver** county has **82.8** total percent of the vote, with **(306,055)** total votes
 
 
-Specific code and output:
+
 ![](https://github.com/Beetleee/Election_Analysis/blob/main/resources/county_specific.png)
  - **County with largest number of votes**:  
 	  **Denver** county has the largest number of votes with: **306,055**
-Specific code and output:
+
 ![](https://github.com/Beetleee/Election_Analysis/blob/main/resources/Largest%20county.png)
 
 
@@ -30,13 +30,13 @@ Specific code and output:
 	* Candidate **Raymon Anthony Doane** has **3.1%** of the vote, with **11,606** total votes
 
 
-Specific code and output:
+
 ![]( https://github.com/Beetleee/Election_Analysis/blob/main/resources/Candidate_total_and_percentage_votes.png)
  - **Winning candidate info**
 * Candidate **Diana DeGette** won the election!! 
 
 
-Specific code and output:
+
 ![](https://github.com/Beetleee/Election_Analysis/blob/main/resources/winning_candidate.png)
 
 
