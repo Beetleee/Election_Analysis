@@ -6,7 +6,7 @@ Deliverable 1
 ## Overview of Election Audit:
   I am helping Seth and Tom submit an election audit of western Colorado to the election commission.  They asked for additional information including incorporating county-specific information: voter turnout, percentage of votes, and the county with largest turnout.  For this, I wrote specific code which could delineate candidate-specific and county-specific voter information, and provide a printed bottom-line output.
 ### Election-Audit Results
- - **Total votes cast** The total votes cast in this election was: **369,711**
+ - **Total votes cast** The total votes cast in this election is: **369,711**
 
 Specific code and output:
 ![](https://github.com/Beetleee/Election_Analysis/blob/main/resources/Total_votes.png)
