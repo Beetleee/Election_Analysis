@@ -19,11 +19,11 @@ Specific code and output:
 Specific code and output:
 ![](https://github.com/Beetleee/Election_Analysis/blob/main/resources/county_specific.png)
  - **County with largest number of votes**
-	**Denver** county had the largest number of votes with: **306,055**
+	  **Denver** county has the largest number of votes with: **306,055**
 	
 
 Specific code and output:
-![] (https://github.com/Beetleee/Election_Analysis/blob/main/resources/Largest%20county.png)
+![](https://github.com/Beetleee/Election_Analysis/blob/main/resources/Largest%20county.png)
  - **Candidate-specific results**
 * Candidate **Charles Casper Stockholm** has **23.0%** of the vote, with **85,213** total votes
 	* Candidate **Diana DeGette** has **73.8%** of the vote, with **272,892** total votes
