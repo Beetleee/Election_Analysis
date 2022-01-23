@@ -18,7 +18,7 @@ Specific code and output:
 
 Specific code and output:
 ![](https://github.com/Beetleee/Election_Analysis/blob/main/resources/county_specific.png)
- - **County with largest number of votes:  **
+ - **County with largest number of votes**:  
 	  **Denver** county has the largest number of votes with: **306,055**
 	
 
