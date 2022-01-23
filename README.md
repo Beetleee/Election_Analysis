@@ -1,3 +1,3 @@
 # Election_Analysis
 python 
-![this is an image]/main/Election_results_printed_to_command_line.png
+![this is an image]/../main/Election_results_printed_to_command_line.png
