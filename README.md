@@ -1,6 +1,6 @@
 # Module 3  Election_Analysis
 ### by Terra Lasho 
-##Deliverable #1 
+##Deliverable 1##
 -Election Results delivered to command line
 ![](https://github.com/Beetleee/Election_Analysis/blob/main/resources/Election_results_printed_to_command_line.png)
 ## Overview of Election Audit:
