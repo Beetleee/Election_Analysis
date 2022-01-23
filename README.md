@@ -1,7 +1,7 @@
 # Module 3  Election_Analysis
 ### by Terra Lasho 
-##Deliverable 1
--Election Results delivered to command line
+Deliverable 1 
+-Election Results printed/delivered to command line:
 ![](https://github.com/Beetleee/Election_Analysis/blob/main/resources/Election_results_printed_to_command_line.png)
 ## Overview of Election Audit:
   I am helping Seth and Tom submit an election audit of western Colorado to the election commission.  They asked for additional information including incorporating county-specific information: voter turnout, percentage of votes, and the county with largest turnout.  For this, I wrote specific code which could delineate candidate-specific and county-specific voter information, and provide a printed bottom-line output.
